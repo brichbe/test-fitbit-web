@@ -1,0 +1,2 @@
+serviceClass: com.fitweb.client.GreetingService
+path: 6C8C67A55670861E2E67DE9F10FCCBB5.gwt.rpc
